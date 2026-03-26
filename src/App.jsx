@@ -275,11 +275,11 @@ const Reflection = () => {
     },
     {
       question: 'What technologies are you most interested in learning?',
-      answer: 'I am most interested in learning advanced web development technologies and frameworks that can help me create more dynamic and efficient applications. Specifically, I want to deepen my knowledge of **React.js** and explore **Node.js** and **Express.js** for back-end development. I am also curious about **TypeScript** for writing more robust and scalable code, as well as learning **database management** with tools like **MongoDB** or **MySQL**. Additionally, I am interested in exploring **mobile app development** and **AI integration** in web applications, as these technologies are becoming increasingly important in the IT industry.'
+      answer: 'I am most interested in learning advanced web development technologies and frameworks that can help me create more dynamic and efficient applications. Specifically, I want to deepen my knowledge of React.js and explore Node.js and Express.js for back-end development. I am also curious about TypeScript for writing more robust and scalable code, as well as learning database management with tools like MongoDB or MySQL. Additionally, I am interested in exploring mobile app development and AI integration in web applications, as these technologies are becoming increasingly important in the IT industry.'
     },
     {
       question: 'What kind of applications do you want to build in the future?',
-      answer: 'In the future, I want to build applications that are both useful and user-friendly, focusing on solving real-world problems. I am particularly interested in creating **web and mobile applications** that can help people manage tasks, access information easily, or improve daily life. For example, I would like to develop **productivity apps, educational platforms, or community-based solutions** for farmers, students, or small businesses. I also hope to explore applications that incorporate **interactive features, responsive design, and possibly AI tools**, so they are not only functional but also engaging for users.'
+      answer: 'In the future, I want to build applications that are both useful and user-friendly, focusing on solving real-world problems. I am particularly interested in creating web and mobile applications that can help people manage tasks, access information easily, or improve daily life. For example, I would like to develop productivity apps, educational platforms, or community-based solutions for farmers, students, or small businesses. I also hope to explore applications that incorporate interactive features, responsive design, and possibly AI tools, so they are not only functional but also engaging for users.'
     }
   ];
 
